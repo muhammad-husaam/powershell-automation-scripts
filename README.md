@@ -35,7 +35,7 @@ To showcase hands-on PowerShell skills relevant to:
 | Create Active Directory User | Automates new user creation in AD | [create-ad-user.ps1](scripts/create-ad-user.ps1) |
 | User Account Audit | Lists local user accounts | [user-audit.ps1](scripts/user-audit.ps1) |
 | Backup Files | Automates file backup to a network location | [backup-files.ps1](scripts/backup-files.ps1) |
-
+| System Health Check | Performs full system diagnostics | [system-health-check.ps1](scripts/system-health-check.ps1) |
 ---
 
 ## 💡 Skills Demonstrated
